@@ -26,13 +26,7 @@ layout:
 
 ### ★Learning
 
-[收藏的网站](https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/SemVWPpikWwBJdw0lUf9/)
-
-[技术面试手册](https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/qdQ3fznmwbWhPL2HDr5o/)
-
-[学好英文](https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/PLAAw6Us2G0vY5MIBB4r/)
-
-[学好Web开发](https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/HQIdImKD3ZdzCVB4NQ7u/)
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden></th></tr></thead><tbody><tr><td><a href="https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/SemVWPpikWwBJdw0lUf9/">收藏的网站</a></td><td></td></tr><tr><td><a href="https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/qdQ3fznmwbWhPL2HDr5o/">技术面试手册</a></td><td></td></tr><tr><td><a href="https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/PLAAw6Us2G0vY5MIBB4r/">学好英文</a></td><td></td></tr><tr><td><a href="https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/HQIdImKD3ZdzCVB4NQ7u/">学好Web开发</a></td><td></td></tr></tbody></table>
 
 ### [★Plan](https://docs.google.com/spreadsheets/d/1OE0R2OWq8y4GRjDCaYfgcq-\_Bv-iHcfe3oCQAbMU2Wo/edit?usp=sharing)
 
