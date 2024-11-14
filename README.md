@@ -26,23 +26,15 @@ layout:
 
 ### ★Learning
 
-{% content-ref url="https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/SemVWPpikWwBJdw0lUf9/" %}
-[Sites](https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/SemVWPpikWwBJdw0lUf9/)
-{% endcontent-ref %}
+[收藏的网站](https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/SemVWPpikWwBJdw0lUf9/)
 
-{% content-ref url="https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/qdQ3fznmwbWhPL2HDr5o/" %}
-[Interview](https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/qdQ3fznmwbWhPL2HDr5o/)
-{% endcontent-ref %}
+[技术面试手册](https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/qdQ3fznmwbWhPL2HDr5o/)
 
-{% content-ref url="https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/PLAAw6Us2G0vY5MIBB4r/" %}
-[English](https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/PLAAw6Us2G0vY5MIBB4r/)
-{% endcontent-ref %}
+[学好英文](https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/PLAAw6Us2G0vY5MIBB4r/)
 
-{% content-ref url="https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/HQIdImKD3ZdzCVB4NQ7u/" %}
-[Web Development](https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/HQIdImKD3ZdzCVB4NQ7u/)
-{% endcontent-ref %}
+[学好Web开发](https://app.gitbook.com/o/PvoVexIMMc3kWsFipcmx/s/HQIdImKD3ZdzCVB4NQ7u/)
 
-### ★Plan
+### [★Plan](https://docs.google.com/spreadsheets/d/1OE0R2OWq8y4GRjDCaYfgcq-\_Bv-iHcfe3oCQAbMU2Wo/edit?usp=sharing)
 
 {% embed url="https://docs.google.com/spreadsheets/d/1OE0R2OWq8y4GRjDCaYfgcq-_Bv-iHcfe3oCQAbMU2Wo/edit?gid=1115838130#gid=1115838130" %}
 
